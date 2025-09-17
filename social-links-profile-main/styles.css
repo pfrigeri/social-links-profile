@@ -4,18 +4,22 @@
 }
 
 body {
+    /* Basic Styles  */
   text-align: center;
   font-family: Inter;
   background-color: hsl(0, 0%, 8%);
   min-height: 110vh;
+
+  /* Flex-Box */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 56px;
+
+  /* Box-Sizing */
   box-sizing: border-box;
   color: hsl(0, 0%, 100%)
-
 }
 
 
