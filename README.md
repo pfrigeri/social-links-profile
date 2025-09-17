@@ -11,7 +11,7 @@ Esta é a minha solução para o [desafio "Social Links Profile" do Frontend Men
 ### Links
 
 - **URL da Solução:** [Link para o repositório no GitHub](https://github.com/pfrigeri/social-links-profile)
-- **URL do Site:** [Link para o site no ar](https://seu-link-aqui.com)
+- **URL do Site:** [Link para o site no ar](https://pfrigeri.github.io/social-links-profile/)
 
 ---
 
