@@ -36,5 +36,4 @@ Este projeto foi uma ótima oportunidade para colocar em prática os conceitos d
 
 ## Autor
 
-- **Frontend Mentor** - [@pfrigeri](https://www.frontendmentor.io/profile/pfrigeri)
-- **LinkedIn** - [Pedro Moura Frigeri](https://www.linkedin.com/in/pedro-frigeri/)
+- **LinkedIn** - [Pedro Moura Frigeri](https://www.linkedin.com/in/pedro-moura-frigeri/)
